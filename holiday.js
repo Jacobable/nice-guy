@@ -1,3 +1,4 @@
+// 주석 추가
 const $baseUrl = 'https://date.nager.at/api/v3/';
 const $PublicHolidays = $baseUrl + 'PublicHolidays';
 const $NextPublicHolidays = $baseUrl + 'NextPublicHolidays';
